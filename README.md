@@ -2,6 +2,7 @@
 
 สรุปข่าวภาษาไทยรายวัน
 
+- [2026-11-26 — Ai Stock Talk คุยหุ้นกับ Ai — 26 พ.ย. 2026](https://tstevy3a.github.io/horizon-ai-radar/2026-11-26.html)
 - [2026-11-25 — Ai Stock Talk คุยหุ้นกับ Ai — 25 พ.ย. 2026](https://tstevy3a.github.io/horizon-ai-radar/2026-11-25.html)
 - [2026-11-24 — Ai Stock Talk คุยหุ้นกับ Ai — 24 พ.ย. 2026](https://tstevy3a.github.io/horizon-ai-radar/2026-11-24.html)
 - [2026-11-23 — Ai Stock Talk คุยหุ้นกับ Ai — 23 พ.ย. 2026](https://tstevy3a.github.io/horizon-ai-radar/2026-11-23.html)
